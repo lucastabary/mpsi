@@ -7,3 +7,4 @@
 
 [b. Dérivation, étude d'une fonction](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/lucastabary/mpsi/gh-pages/D%C3%A9rivation%2C%20%C3%A9tude%20d%27une%20fonction.pdf) \[[Télécharger](https://github.com/lucastabary/mpsi/blob/gh-pages/D%C3%A9rivation%2C%20%C3%A9tude%20d%27une%20fonction.pdf?raw=true)\]
 
+[c. Fonctions usuelles](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/lucastabary/mpsi/gh-pages/Fonctions%20usuelles.pdf) \[[Télécharger](https://github.com/lucastabary/mpsi/blob/gh-pages/Fonctions%20usuelles.pdf?raw=true)\]
